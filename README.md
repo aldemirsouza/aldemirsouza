@@ -14,7 +14,7 @@ Sou um front-end developer morando na ensolarada cidade do Recife, Brasil. Gosto
 - [Projeto Point do Design](https://www.pointdodesign.com.br/) ✍🏼 - Trabalhando atualmente.
 - [Meu portfólio](https://aldemirsouza.github.io/portfolio/) 💻
 
-### Technologies :sunglasses:
+## Technologies :sunglasses:
 * MOTION - CSS & JavaScript
 * UI DESIGN - Prototipagem com Figma
 * CODIFICAÇÃO - Front-end - HTML + CSS 3 + JS
