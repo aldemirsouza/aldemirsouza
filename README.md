@@ -11,8 +11,8 @@
 ### About me
 Sou um front-end developer morando na ensolarada cidade do Recife, Brasil. Gosto de transformar problemas complexos em designs simples, bonitos e intuitivos. Minhas experiências na área de desenvolvimento me fizeram evoluir como profissional, e como consequência do amor pelo que faço, desenvolver se tornou meu hobby favorito.
 
-- [Projeto](https://www.pointdodesign.com.br/) ✍🏼 - Escrevo sobre algumas coisas.
-- [Website](https://aldemirsouza.github.io/portfolio/) 💻
+- [Projeto Point do Design](https://www.pointdodesign.com.br/) ✍🏼 - Trabalhando atualmente.
+- [Meu portfólio](https://aldemirsouza.github.io/portfolio/) 💻
 
 ### Technologies :D
 
