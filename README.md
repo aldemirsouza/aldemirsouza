@@ -13,7 +13,6 @@ Desenvolvedor Front-End com experiência sólida em VTEX, React.js, HTML, CSS/SA
 
 Habilidade na construção de layouts e prototipagem utilizando a ferramenta Figma. Apaixonado por tecnologia e inovação, possuo fortes competências em desenvolvimento web e design de interfaces. Com mais de 4 anos de experiência no setor de e-commerce e desenvolvimento front-end, crio experiências digitais de alto impacto e desempenho.
 
-- [Projeto Point do Design](https://www.pointdodesign.com.br/) ✍🏼 - Trabalhando atualmente.
 - [Portfólio](https://aldemirsouza.github.io/portfolio/) 💻
 
 ## Technologies :sunglasses:
