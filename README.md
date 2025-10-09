@@ -4,14 +4,14 @@
 
 # Aldemir Souza
 
-<a href="https://app.rocketseat.com.br/me/aldemir-souza-1568852241"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=aldemir-souza-1568852241&type=card" width="280" alt="Aldemir Araujo's Rocket ID"/></a>
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/aldemirsouza)](https://github.com/aldemirsouza)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aldemirsouza/)](https://www.linkedin.com/in/fagnerpsantos/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aldemmir17b)](https://twitter.com/aldemmir17b)
 
 ## About me
-Sou um front-end developer morando na ensolarada cidade do Recife, Brasil. Gosto de transformar problemas complexos em designs simples, bonitos e intuitivos. Minhas experiências na área de desenvolvimento me fizeram evoluir como profissional, e como consequência do amor pelo que faço, desenvolver se tornou meu hobby favorito.
+Desenvolvedor Front-End com experiência sólida em VTEX, React.js, HTML, CSS/SASS, JavaScript e Figma.
+
+Habilidade na construção de layouts e prototipagem utilizando a ferramenta Figma. Apaixonado por tecnologia e inovação, possuo fortes competências em desenvolvimento web e design de interfaces. Com mais de 4 anos de experiência no setor de e-commerce e desenvolvimento front-end, crio experiências digitais de alto impacto e desempenho.
 
 - [Projeto Point do Design](https://www.pointdodesign.com.br/) ✍🏼 - Trabalhando atualmente.
 - [Portfólio](https://aldemirsouza.github.io/portfolio/) 💻
@@ -19,4 +19,4 @@ Sou um front-end developer morando na ensolarada cidade do Recife, Brasil. Gosto
 ## Technologies :sunglasses:
 * MOTION - CSS & JavaScript
 * UI DESIGN - Prototipagem com Figma
-* CODIFICAÇÃO - Front-end - HTML + CSS 3 + JS
+* CODIFICAÇÃO - Front-end - HTML, CSS, SASS, JavaScript, React and NextJS
