@@ -4,6 +4,8 @@
 
 # Aldemir Souza
 
+<a href="https://app.rocketseat.com.br/me/aldemir-souza-1568852241"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=aldemir-souza-1568852241&type=card" width="280" alt="Aldemir Araujo's Rocket ID"/></a>
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/aldemirsouza)](https://github.com/aldemirsouza)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aldemirsouza/)](https://www.linkedin.com/in/fagnerpsantos/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aldemmir17b)](https://twitter.com/aldemmir17b)
