@@ -9,13 +9,16 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aldemmir17b)](https://twitter.com/aldemmir17b)
 
 ## About me
-Desenvolvedor Front-End com experiência sólida em VTEX, React.js, HTML, CSS/SASS, JavaScript e Figma.
+Desenvolvedor Front-End com Experiência sólida em plataformas: Vtex, Shopify, Nuvemshop e desenvolvimento de apps com plataforma Eitri.
 
-Habilidade na construção de layouts e prototipagem utilizando a ferramenta Figma. Apaixonado por tecnologia e inovação, possuo fortes competências em desenvolvimento web e design de interfaces. Com mais de 4 anos de experiência no setor de e-commerce e desenvolvimento front-end, crio experiências digitais de alto impacto e desempenho.
+Apaixonado por tecnologia e inovação, possuo fortes competências em desenvolvimento web e design de interfaces.
+Com mais de 5 anos de experiência no setor de e-commerce e desenvolvimento web, criando experiências digitais de alto impacto e desempenho.
 
-- [Portfólio](https://portfolio-1-gaf6.vercel.app/) 💻
+Gosto de acompanhar o projeto de perto, unindo arquitetura e detalhe, para a solução crescer de forma consistente.
+
+- [Portfólio](demiraraujo.dev/) 💻
 
 ## Technologies :sunglasses:
 * MOTION - CSS & JavaScript
 * UI DESIGN - Prototipagem com Figma
-* CODIFICAÇÃO - Front-end - HTML, CSS, SASS, JavaScript, React and NextJS
+* CODIFICAÇÃO - Front-end - HTML, CSS, SASS, TailwindCSS, JavaScript. NodeJS, TypeScript, React and NextJS
