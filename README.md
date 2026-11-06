@@ -16,7 +16,7 @@ Com mais de 5 anos de experiência no setor de e-commerce e desenvolvimento web,
 
 Gosto de acompanhar o projeto de perto, unindo arquitetura e detalhe, para a solução crescer de forma consistente.
 
-- [Portfólio](demiraraujo.dev/) 💻
+- [Portfólio](https://www.demiraraujo.dev/) 💻
 
 ## Technologies :sunglasses:
 * MOTION - CSS & JavaScript
